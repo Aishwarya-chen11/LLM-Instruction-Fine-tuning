@@ -17,7 +17,7 @@ Build an end-to-end SFT workflow that:
 ---
 
 **IMPLEMENTATION:**
-Open the training notebook in Colab: **[Open Colab Notebook](https://github.com/Aishwarya-chen11/Fine-tuned-LLM-Classification-Model/blob/main/Fine_tuned_LLM_classification_model.ipynb)**
+Open the training notebook in Colab: **[Open Colab Notebook](https://github.com/Aishwarya-chen11/LLM-Instruction-Fine-tuning/blob/main/Instruction_Fine_Tuning_LLM.ipynb)**
 
 **Tools and Technologies Used**
 
